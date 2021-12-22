@@ -24,6 +24,12 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
+### Ideas to test yourself
+- Write your styles using a pre-processor, such as Sass, Less or Stylus
+- Practice working in a team by building with friends
+- Train your eye for detail by getting your solution as close to the design as you can
+- Try estimating the time it will take for you to build the project. Then see if the time taken matches up to your estimate. Project estimations are a skill that is often overlooked, but is important for professional developers
+
 ## Where to find everything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
